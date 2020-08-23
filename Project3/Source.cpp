@@ -2,8 +2,9 @@
 #include<stdio.h>
 int main()
 {
-	int x, y, n;
-	printf("enter fist number ");
+	int x, y, n;// what
+
+printf("enter fist number ");
 	scanf("%d", &x);
 	printf("enter second number");
 	scanf("%d", &y);
