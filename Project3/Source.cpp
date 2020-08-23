@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-	int x, y, n;// what
+	int x, y, n;
 
 printf("enter fist number ");
 	scanf("%d", &x);
